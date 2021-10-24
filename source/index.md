@@ -1,5 +1,5 @@
-Plan 9 (4th Edition) Developer Guide!
-====================================================
+Plan 9 (4th Edition) Development Guide
+======================================
 
 ## Introduction
 
@@ -7,7 +7,7 @@ In general, Plan9 is considered beyond the average computer user's knowledge. We
 
 
 ```{toctree}
-:caption: Plan 9 (4th Ed.) Developer Guide
+:caption: Plan 9 (4th Ed.) Development Guide
 :hidden:
 :maxdepth: 2
 :glob:
